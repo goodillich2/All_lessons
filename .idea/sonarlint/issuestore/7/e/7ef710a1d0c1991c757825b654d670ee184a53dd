@@ -1,0 +1,14 @@
+
+Y
+java:S4973#"<Strings and Boxed types should be compared using "equals()".(˜»‰é8®ÿ˜ŞÜ0
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(´ßßü
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(ğ“
+N	java:S106"9Replace this use of System.out or System.err by a logger.(û¤ŒÈ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(êÓæøùÿÿÿÿ
+X	java:S125"<This block of commented-out lines of code should be removed.(Õ—ğ–8ŸòšŞÜ0
+V	java:S125>"<This block of commented-out lines of code should be removed.(ìÃœ«şÿÿÿÿ
+S	java:S106O"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106\"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+N	java:S106`"9Replace this use of System.out or System.err by a logger.(Üâ½Û
+U	java:S106d"9Replace this use of System.out or System.err by a logger.(ïÖöó8Ğ”‰ŞÜ0

@@ -1,0 +1,31 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿ØŠ
+K
+java:S1854"5Remove this useless assignment to local variable "y".(ÒÈÑ
+W
+java:S1854"<Remove this useless assignment to local variable "integer1".(Óä·ùÿÿÿÿ
+V
+java:S1854";Remove this useless assignment to local variable "integer".(”ÿîóøÿÿÿÿ
+K
+java:S1854"5Remove this useless assignment to local variable "j".(Üİ±»
+K
+java:S1854"5Remove this useless assignment to local variable "d".(ÒÀùŠ
+K
+java:S1854"5Remove this useless assignment to local variable "b".(¦‹ÿÓ
+<
+java:S1481"&Remove this unused "b" local variable.(¦‹ÿÓ
+<
+java:S1481"&Remove this unused "d" local variable.(ÒÀùŠ
+<
+java:S1481"&Remove this unused "j" local variable.(Üİ±»
+<
+java:S2129"!Remove this "Integer" constructor(”ÿîóøÿÿÿÿ
+c
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(”ÿîóøÿÿÿÿ
+G
+java:S1481",Remove this unused "integer" local variable.(”ÿîóøÿÿÿÿ
+H
+java:S1481"-Remove this unused "integer1" local variable.(Óä·ùÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Øâ×
+<
+java:S1481"&Remove this unused "y" local variable.(ÒÈÑ

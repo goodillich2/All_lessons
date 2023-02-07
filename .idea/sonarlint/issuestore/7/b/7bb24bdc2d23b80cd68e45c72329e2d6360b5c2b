@@ -1,0 +1,19 @@
+
+^
+java:S3518!"CMake sure this expression can't be zero before doing this division.(¾Ÿ“ÿÿÿÿÿ
+R
+java:S1854"<Remove this useless assignment to local variable "scanner2".(†ÊøÄ
+P
+java:S1854!"5Remove this useless assignment to local variable "a".(¾Ÿ“ÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ø†ü
+C
+java:S1481"-Remove this unused "scanner2" local variable.(†ÊøÄ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¬«‘ıúÿÿÿÿ
+A
+java:S1481!"&Remove this unused "a" local variable.(¾Ÿ“ÿÿÿÿÿ
+Q	java:S125%"<This block of commented-out lines of code should be removed.(‹×Ö
+Q	java:S125*"<This block of commented-out lines of code should be removed.(¬ä¸
+J
+java:S1128"/Remove this unused import 'java.io.FileReader'.(Â¡¢äşÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ

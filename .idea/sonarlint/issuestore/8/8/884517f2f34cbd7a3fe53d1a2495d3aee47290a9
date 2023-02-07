@@ -1,0 +1,51 @@
+
+D
+java:S3740C"/Provide the parametrized type for this generic.(ÚÆê
+D
+java:S3740C"/Provide the parametrized type for this generic.(ÚÆê
+J
+java:S3740F"/Provide the parametrized type for this generic.(•ÛËÁùÿÿÿÿ
+J
+java:S3740F"/Provide the parametrized type for this generic.(•ÛËÁùÿÿÿÿ
+E
+java:S3740J"/Provide the parametrized type for this generic.(Şç½Å
+E
+java:S3740J"/Provide the parametrized type for this generic.(Şç½Å
+J
+java:S3740O"/Provide the parametrized type for this generic.(øæ„¢şÿÿÿÿ
+J
+java:S3740O"/Provide the parametrized type for this generic.(øæ„¢şÿÿÿÿ
+E
+java:S3740S"/Provide the parametrized type for this generic.(ŒÖÒ¾
+J
+java:S3740T"/Provide the parametrized type for this generic.(ÒÛĞ™şÿÿÿÿ
+E
+java:S3740\"/Provide the parametrized type for this generic.(şÙ»â
+X
+java:S1854T"=Remove this useless assignment to local variable "arrayList".(ÒÛĞ™şÿÿÿÿ
+P
+java:S1854C";Remove this useless assignment to local variable "doubles".(ÚÆê
+P
+java:S1854/"5Remove this useless assignment to local variable "a".(Â†ºíùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÙõıÅúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ˆšÑÖüÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(šÆR
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ˆšÑÖüÿÿÿÿ
+M	java:S106!"9Replace this use of System.out or System.err by a logger.(°©Ô[
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(ˆšÑÖüÿÿÿÿ
+M	java:S106)"9Replace this use of System.out or System.err by a logger.(°©Ô[
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(ˆšÑÖüÿÿÿÿ
+M	java:S106-"9Replace this use of System.out or System.err by a logger.(È»ƒP
+A
+java:S1481/"&Remove this unused "a" local variable.(Â†ºíùÿÿÿÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(ˆšÑÖüÿÿÿÿ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(âÕáˆ
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(ˆšÑÖüÿÿÿÿ
+Q	java:S1259"<This block of commented-out lines of code should be removed.(­²´á
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(“–àúÿÿÿÿ
+P	java:S125A"<This block of commented-out lines of code should be removed.(Êıàz
+A
+java:S1481C",Remove this unused "doubles" local variable.(ÚÆê
+S	java:S106H"9Replace this use of System.out or System.err by a logger.( «ğ†ÿÿÿÿÿ
+S	java:S106L"9Replace this use of System.out or System.err by a logger.(Øªòùÿÿÿÿ
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(ëÊĞüÿÿÿÿÿ

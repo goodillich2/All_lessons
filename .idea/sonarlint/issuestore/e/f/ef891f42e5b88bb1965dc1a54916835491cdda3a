@@ -1,0 +1,18 @@
+
+y
+java:S1488W"cImmediately return this expression instead of assigning it to the temporary variable "yearOfBirth".(°ºˆÁ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(´ÍÔ¬
+N	java:S106"9Replace this use of System.out or System.err by a logger.(öÆÖ÷
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ŒÉ²ñ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ŽËõ‚
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(û§²Å
+V	java:S1253"<This block of commented-out lines of code should be removed.(Ì¨øûÿÿÿÿ
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(¦¯Å¢
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(çœ¶…
+N	java:S106K"9Replace this use of System.out or System.err by a logger.(é©Ë°
+M	java:S106P"9Replace this use of System.out or System.err by a logger.(ƒéõ
+T	java:S106Q"9Replace this use of System.out or System.err by a logger.(Ãßè'8Ù²€ó×0
+U	java:S106R"9Replace this use of System.out or System.err by a logger.(â‡³ø8õÞƒó×0
+V	java:S125a"<This block of commented-out lines of code should be removed.(Á£ÆÝúÿÿÿÿ
+O
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8Œ­‰ó×0

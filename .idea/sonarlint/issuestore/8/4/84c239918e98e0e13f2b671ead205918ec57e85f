@@ -1,0 +1,11 @@
+
+t
+java:S1488+"^Immediately return this expression instead of assigning it to the temporary variable "result".(˜ÛÍô
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€°”„
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ïá—Êøÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(«Ëµîşÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(ªÄÑƒ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(¡úÑû
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(Ñ›²™
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(ı‰ÕÊ
+Q	java:S125'"<This block of commented-out lines of code should be removed.(Á¤Œã

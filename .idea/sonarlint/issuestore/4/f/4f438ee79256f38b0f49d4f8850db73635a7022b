@@ -1,0 +1,16 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(ö•‹Ö8¼Ñº€Û0
+C
+java:S1481"&Remove this unused "a" local variable.(€ôá8¼Ñº€Û0
+]	java:S125"<This block of commented-out lines of code should be removed.(äÔ«ñùÿÿÿÿ8½Ñº€Û0
+X	java:S125-"<This block of commented-out lines of code should be removed.(Ÿ¢±Õ8ÁÑº€Û0
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(×Æáî8ÄÑº€Û0
+U	java:S106@"9Replace this use of System.out or System.err by a logger.(º¼É°8ÇÑº€Û0
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(Ãî‡”üÿÿÿÿ8ÈÑº€Û0
+U	java:S106G"9Replace this use of System.out or System.err by a logger.(¡½Îî8ÉÑº€Û0
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ÊÑº€Û0
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ÊÑº€Û0
+C
+java:S1128"&Remove this unused import 'java.math'.(âî©8ËÑº€Û0

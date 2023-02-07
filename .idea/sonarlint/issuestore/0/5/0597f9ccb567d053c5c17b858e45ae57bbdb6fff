@@ -1,0 +1,15 @@
+
+y
+java:S1488s"^Immediately return this expression instead of assigning it to the temporary variable "result".(ï÷©ñøÿÿÿÿ
+y
+java:S1488z"^Immediately return this expression instead of assigning it to the temporary variable "result".(äìÜ´úÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÉÕø
+W
+java:S18545":Remove this useless assignment to local variable "human6".(óßÌ‡8°´Ü0
+P	java:S125"<This block of commented-out lines of code should be removed.(›ô\
+N	java:S106."9Replace this use of System.out or System.err by a logger.(ôÌ¿ò
+H
+java:S14815"+Remove this unused "human6" local variable.(óßÌ‡8²´Ü0
+S	java:S106g"9Replace this use of System.out or System.err by a logger.(½³õÿşÿÿÿÿ
+N	java:S106h"9Replace this use of System.out or System.err by a logger.(§Ÿÿ¹
+S	java:S106n"9Replace this use of System.out or System.err by a logger.(Šæàèøÿÿÿÿ
