@@ -1,12 +1,0 @@
-
-d
-java:S1104"NMake PI a static final constant or non-public and provide accessors if needed.(»“Íö
->
-java:S1444"(Make this "public static PI" field final(»“Íö
-o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.( ²ç
-V	java:S125"<This block of commented-out lines of code should be removed.(áØ«Áÿÿÿÿÿ
-c
-java:S3008"MRename this field "PI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»“Íö
-N	java:S106,"9Replace this use of System.out or System.err by a logger.(ş÷ñ¢
-N	java:S106-"9Replace this use of System.out or System.err by a logger.(Á®Òâ
-V	java:S125."<This block of commented-out lines of code should be removed.(ïùˆøÿÿÿÿ

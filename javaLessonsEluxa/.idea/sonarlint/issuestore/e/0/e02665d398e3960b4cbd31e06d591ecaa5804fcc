@@ -1,6 +1,0 @@
-
-N	java:S106-"9Replace this use of System.out or System.err by a logger.(êÒø
-N	java:S1062"9Replace this use of System.out or System.err by a logger.(ô–Ìó
-S	java:S1066"9Replace this use of System.out or System.err by a logger.(ßÈÙ—üÿÿÿÿ
-Z
-java:S1128"?Remove this unused import 'com.company.lab_7.action.Rotatable'.(á¨ºıüÿÿÿÿ

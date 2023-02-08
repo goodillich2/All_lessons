@@ -1,8 +1,0 @@
-
-S	java:S106"9Replace this use of System.out or System.err by a logger.( ©ÃÑúÿÿÿÿ
-O
-java:S18542"9Remove this useless assignment to local variable "robot".(ÃÌ­Ý
-@
-java:S14812"*Remove this unused "robot" local variable.(ÃÌ­Ý
-S	java:S1064"9Replace this use of System.out or System.err by a logger.(Å­ËÝúÿÿÿÿ
-N	java:S1067"9Replace this use of System.out or System.err by a logger.(ëë¢Ø

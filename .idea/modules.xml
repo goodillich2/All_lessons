@@ -5,8 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/AllLessons.iml" filepath="$PROJECT_DIR$/.idea/AllLessons.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaLessonSofia/javaLessonSofia.iml" filepath="$PROJECT_DIR$/javaLessonSofia/javaLessonSofia.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaLessonSonya/javaLessonSonya.iml" filepath="$PROJECT_DIR$/javaLessonSonya/javaLessonSonya.iml" />
-      <module fileurl="file://$PROJECT_DIR$/javaLessonsEluxa/javaLessonsEluxa.iml" filepath="$PROJECT_DIR$/javaLessonsEluxa/javaLessonsEluxa.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaLessonsEluxa/src/javaLessonsEluxa1.iml" filepath="$PROJECT_DIR$/javaLessonsEluxa/src/javaLessonsEluxa1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaLessonsEluxa2/javaLessonsEluxa2.iml" filepath="$PROJECT_DIR$/javaLessonsEluxa2/javaLessonsEluxa2.iml" />
       <module fileurl="file://$PROJECT_DIR$/myTest/myTest.iml" filepath="$PROJECT_DIR$/myTest/myTest.iml" />
     </modules>
   </component>

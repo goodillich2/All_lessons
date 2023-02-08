@@ -41,8 +41,6 @@ q
 AjavaLessonsEluxa/src/com/company/lesson_6/polimorfism /Tets7.java,a/c/acb7d3da91138022cf82e53323ae0ccec4eb2fbe
 c
 3javaLessonsEluxa/src/com/company/lesson_1/Main.java,4/f/4f438ee79256f38b0f49d4f8850db73635a7022b
-N
-myTest/src/DiagonalMatrix.java,5/e/5eb09d69fbffe4da99528e01b15a4918b37aac2f
 m
 =javaLessonSonya/src/com/company/lesson_6/hmPractice/Test.java,2/7/27c36142ea35981e37aadf7345fbf2991a842d14
 r
